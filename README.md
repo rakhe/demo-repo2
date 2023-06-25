@@ -1,3 +1,3 @@
 #SOME TEXT
 
-open index.html and do something
+open index.html.DO something.
